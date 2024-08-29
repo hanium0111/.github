@@ -6,7 +6,7 @@
 
 ▲ 위 이미지 클릭시 유튜브 영상을 확인할 수 있습니다.
 
-## 시연 동영상
+## 서비스 소개
 
 <img alt="브랜드 정의" src="https://github.com/hanium0111/ReadME/blob/main/public/brand.png?raw=true">
 
