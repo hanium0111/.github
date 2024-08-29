@@ -1,5 +1,7 @@
 ## ![header](https://capsule-render.vercel.app/api?type=waving&color=_&height=400&section=header&text=01:11&fontSize=160&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=24_HF048&descSize=40&descAlignY=70)
 
+[![Video Label](https://img.youtube.com/vi/v5OhqgTQl7M/0.jpg)](https://youtu.be/v5OhqgTQl7M)
+
 <img alt="브랜드 정의" src="https://github.com/hanium0111/ReadME/blob/main/public/brand.png?raw=true">
 
 </br>
